@@ -1,0 +1,5 @@
+crimes = [r'desk is gone', r'abduction of', r'lay the', r'rings was']
+detectives = [r'(Ganimard|Herlock|Sholmes)]
+suspects = ['drayman, wearing a badge', 'a blonde woman—extremely blonde',
+            'A young man named Ernest', 'Antoinette', 'Herr Bleichen',
+            'Madame de Réal', 'Madame Réal', 'Destange', 'Clotilde']
