@@ -1,4 +1,11 @@
 crimes = [r'desk is gone', r'abduction of', r'lay the', r'rings was']
+
+Chapter:  1             Sentence:  57
+Chapter:  1 	Sentence:  296 
+Chapter:  2 	Sentence:  40 
+Chapter:  2 	Sentence:  337 
+
+
 detectives = [r'(Ganimard|Herlock|Sholmes)]
 suspects = ['drayman, wearing a badge', 'a blonde woman—extremely blonde',
             'A young man named Ernest', 'Antoinette', 'Herr Bleichen',
