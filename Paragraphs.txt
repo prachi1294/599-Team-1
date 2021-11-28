@@ -5,6 +5,14 @@ For introducing the protagonist and Introducing the antagonist:
 Arsène Lupin in our midst! the irresponsible burglar whose exploits had been narrated in all the newspapers during the past few months! the mysterious individual with whom Ganimard, our shrewdest detective, had been engaged in an implacable conflict amidst interesting and picturesque surroundings. Arsène Lupin, the eccentric gentleman who operates only in the châteaux and salons, and who, one night, entered the residence of Baron Schormann, but emerged empty-handed, leaving, however, his card on which he had scribbled these words: “Arsène Lupin, gentleman-burglar, will return when the furniture is genuine.” Arsène Lupin, the man of a thousand disguises: in turn a chauffer, detective, bookmaker, Russian physician, Spanish bull-fighter, commercial traveler, robust youth, or decrepit old man.
 
 
+1.  Is there any crime mentioned?
+2. Who is bulgar?
+3. Who is the detective?
+4. What are the disguises?
+
+
+
+
 Introducing the crime and crime scene:
 First crime was theft and this paragraphs describe that.
 Then he pulled up his sleeve, removing his cuff, and showed us his arm. But that action did not deceive me. He had shown us his left arm, and I was on the point of calling his attention to the fact, when another incident diverted our attention. Lady Jerland, Miss Nelly’s friend, came running towards us in a state of great excitement, exclaiming:
@@ -13,13 +21,26 @@ No, they were not all gone, as we soon found out. The thief had taken only part 
 Of course, all the passengers instantly reached the same conclusion; it was the work of Arsène Lupin.
 
 
+1. What items has the thief taken?
+2. How was this theft committed?
+
+
 Crime scene:
 “Admitting that we know the guilty party, which we do not, we are confronted by the fact that we do not know how the theft was committed. We are brought face to face with two obstacles: a door and a window—both closed and fastened. It is thus a double mystery. How could anyone enter, and, moreover, how could any one escape, leaving behind him a bolted door and a fastened window?”
+
+
+1. What were the obstacles?
+2. How was the theft committed?
+
+
 
 
 Any significant evidence:
 And, as a matter of fact, Arsène Lupin had very little to say. For several months, Mon. Jules Bouvier, the examining judge, had exerted himself in vain. The investigation had been reduced to a few uninteresting arguments between the judge and the advocate, Maître Danval, one of the leaders of the bar. From time to time, through courtesy, Arsène Lupin would speak. One day he said:
 “Yes, monsieur, le judge, I quite agree with you: the robbery of the Crédit Lyonnais, the theft in the rue de Babylone, the issue of the counterfeit bank-notes, the burglaries at the various châteaux, Armesnil, Gouret, Imblevain, Groseillers, Malaquis, all my work, monsieur, I did it all.”
+
+
+1. What did Arsène Lupin confess?
 
 
 Resolution of crime and evidence against perpetrator:
@@ -43,3 +64,7 @@ I laughed, and replied: “No, simply Bernard d’Andrézy.”
 I hesitated a moment. Then he hit me a sharp blow on the right arm, which caused me to utter a cry of pain. He had struck the wound, yet unhealed, referred to in the telegram.
 I was obliged to surrender. There was no alternative. I turned to Miss Nelly, who had heard everything. Our eyes met; then she glanced at the Kodak I had placed in her hands, and made a gesture that conveyed to me the impression that she understood everything. Yes, there, between the narrow folds of black leather, in the hollow centre of the small object that I had taken the precaution to place in her hands before Ganimard arrested me, it was there I had deposited Rozaine’s twenty thousand francs and Lady Jerland’s pearls and diamonds.
 Oh! I pledge my oath that, at that solemn moment, when I was in the grasp of Ganimard and his two assistants, I was perfectly indifferent to everything, to my arrest, the hostility of the people, everything except this one question: what will Miss Nelly do with the things I had confided to her?
+
+
+1. Has Arsène Lupin sailed under any other name?
+2. Ganimard arrested to whom?
